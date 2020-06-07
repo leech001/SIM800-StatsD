@@ -1,6 +1,6 @@
 # STM32 HAL library for SIM800 (GPRS) release send metric StatsD  over AT command
 
-###Simple C library (STM32 HAL) for working with the StatsD protocol through AT commands (GPRS) of the SIM800 module
+## Simple C library (STM32 HAL) for working with the StatsD protocol through AT commands (GPRS) of the SIM800 module
 
 Configure STM32CubeMX by setting "General peripheral Initalizion as a pair of '.c / .h' file per peripheral" in the project settings.
 Remember to enable global interrupts for your UART.

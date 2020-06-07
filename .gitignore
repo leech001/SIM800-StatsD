@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.idea/misc.xml
+.idea/modules.xml
+.idea/SIM800-StatsD.iml
+.idea/vcs.xml
